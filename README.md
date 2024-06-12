@@ -1,6 +1,6 @@
 # Hack Day Team
 
-- TEAM NAME
+- 404 Team Name Not Found
 
 ## Team Lead
 
